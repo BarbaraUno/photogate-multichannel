@@ -1,21 +1,21 @@
-buttonUp = 22
-buttonDown = 23
-buttonMode = 25
-StartStop = 27
-buttonRese = 29
+button = nomor pin
+Up = 22
+down = 23
+mode = 25
+start/stop = 27
+reset = 29
 
+channel = nomor pin
 
-channel photo gate
-channel = pin
- channel 1 = 21
-2 = 20
-3 = 19
-4 = 18
-5 = 2
-6 = 3
-7 = 52
-8 = 50
-9 = 10
-10 = 11
-11 = 12
-12 = 13
+ch 1 = 21
+ch2 = 20
+ch3 = 19
+ch4 = 18
+ch5 = 2
+ch6 = 3
+ch7 = 52
+ch8 = 50
+ch9 = 10
+ch10 = 11
+ch11 = 12
+ch12 = 13
